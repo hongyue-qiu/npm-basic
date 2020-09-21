@@ -1,4 +1,3 @@
-import _ from 'lodash';
 
 const transform = (numbers) => {
     if(numbers == 10)
